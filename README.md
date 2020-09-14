@@ -29,3 +29,5 @@ pull_pe_list(symbol_list):
            (nine_mos_date, nine_mos_pe),
             (yr_ago_date, yr_ago_pe)]]
   }
+
+[![Run on Repl.it](https://repl.it/badge/github/JKavalier76/stock_fundementals_scrapey)](https://repl.it/github/JKavalier76/stock_fundementals_scrapey)
